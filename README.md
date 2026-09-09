@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeed Mowzer</h1>
 <h3 align="center">A passionate cyber security student in Brisbane</h3>
 
-- 🔭 I’m currently working on [Sentinel](https://github.com/Saeedmowz/sentinel)
+- 🔭 I’m currently working on [Argus](https://github.com/Saeedmowz/argus)
 
 - 🌱 I’m currently learning **Bachelor of Cybersecurity**
 
