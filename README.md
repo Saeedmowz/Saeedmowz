@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Bachelor of Cybersecurity**
 
+- 👨‍💻 All of my projects are available at [https://saeedmowz.github.io/](https://saeedmowz.github.io/)
+
 - 📫 How to reach me **saeedmowzer70@gmail.com**
+
+- ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
